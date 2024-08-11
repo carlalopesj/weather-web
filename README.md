@@ -7,3 +7,5 @@ Você pode testar clicando [aqui](https://carlalopesj.github.io/weather-web/)
 
 ![weather-portfolio](https://github.com/user-attachments/assets/bae2cc5c-76a2-46e4-8ab9-ab28297e98bb)
 ![wather-mobile](https://github.com/user-attachments/assets/c877e2c4-2d01-4e6d-baf7-00206c5d4c51)
+
+API utilizada do openweathermap!
